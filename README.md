@@ -1,2 +1,2 @@
-task 
+task : 
 To do list 
